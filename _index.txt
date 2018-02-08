@@ -1,0 +1,8 @@
+http://0.0.0.0:8080/cgu.html
+http://0.0.0.0:8080/cookbook.html
+http://0.0.0.0:8080/faq.html
+http://0.0.0.0:8080/index.html
+http://0.0.0.0:8080/index_2.html
+http://0.0.0.0:8080/qualify-1.html
+http://0.0.0.0:8080/qualify-2.html
+http://0.0.0.0:8080/qualify-fail.html
