@@ -39,8 +39,8 @@
         <section class="section-color center">
             <h3>Démarrez votre demande maintenant</h3>
             <p class="buttons-row">
-                <a class="btn" href="qualify-1.html">Je suis un étudiant</a>
-                <a class="btn" href="qualify-1.html">Je suis une entreprise</a>
+                <a class="btn" href="qualify-1.html?user=etudiant">Je suis un étudiant</a>
+                <a class="btn" href="qualify-1.html?user=entreprise">Je suis une entreprise</a>
             </p>
             <p>
                 <i>Service en version bêta disponible uniquement pour les demandes concernant le département 75 Paris.</i>
@@ -109,6 +109,22 @@
         </div>
     </footer>
 
+    
+        
+        <script>
+            var _paq = _paq || [];
+            _paq.push(["setDomains", ["*.work-in-france.beta.gouv.fr"]]);
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//stats.data.gouv.fr/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', '46']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <noscript><img src="//stats.data.gouv.fr/piwik.php?idsite=46" style="border: 0;" alt=""></noscript>
     
 
 </body>
