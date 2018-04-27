@@ -2,6 +2,7 @@ http://0.0.0.0:8080/cgu.html
 http://0.0.0.0:8080/cookbook.html
 http://0.0.0.0:8080/faq.html
 http://0.0.0.0:8080/index.html
+http://0.0.0.0:8080/stats.html
 http://0.0.0.0:8080/validity_check.html
 http://0.0.0.0:8080/qualify/fail.html
 http://0.0.0.0:8080/qualify/base/qualify-1.html
